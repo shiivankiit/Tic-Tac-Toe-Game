@@ -117,7 +117,7 @@ Tic-Tac-Toe/
 * Click **Reset** or **New Game** to play again
 
 ##  Screenshot📸:-
-   
+   ![image alt](https://github.com/shiivankiit/Tic-Tac-Toe-Game/blob/914d1d6e4b00259ff6e7763a2d8d4af419e7cab0/Screenshot%202026-04-25%20124514.png)
 * 
 ## 💡 Future Improvements
 
